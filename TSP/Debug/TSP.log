@@ -1,0 +1,28 @@
+﻿生成启动时间为 2017/5/3 23:34:29。
+     1>项目“C:\Users\aw\Desktop\新建文件夹\代码\TSP\TSP\TSP.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(37): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(89): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(99): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(121): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(432): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(433): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(517): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(571): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(584): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(590): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(594): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph.h(600): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph2.h(43): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph2.h(107): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\aw\desktop\新建文件夹\代码\tsp\tsp\graph2.h(132): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\aw\Desktop\新建文件夹\代码\TSP\Debug\TSP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\aw\Desktop\新建文件夹\代码\TSP\Debug\TSP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\aw\Desktop\新建文件夹\代码\TSP\Debug\TSP.lib" /MACHINE:X86 Debug\main.obj
+         TSP.vcxproj -> C:\Users\aw\Desktop\新建文件夹\代码\TSP\Debug\TSP.exe
+     1>已完成生成项目“C:\Users\aw\Desktop\新建文件夹\代码\TSP\TSP\TSP.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.99
